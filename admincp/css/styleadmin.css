@@ -1,0 +1,61 @@
+body {
+    background: rgb(223 235 235);
+}
+.header{
+
+    
+    background-image: url("../../images/anhbia.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 110%;
+    border: 1px solid rgb(0, 0, 0);
+    height: 180px;
+    width: 100%;
+        
+    
+
+}
+ul.adminlist- {
+    
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+ul.adminlist- li {
+    
+    float: left;
+    margin: 10px;
+}
+.clear{
+    clear: both;
+}
+h3.title_admin {
+    text-align: center;
+    color: unset;
+    font-size: 35px;
+}
+.wrapper{
+    
+    border: 1px solid rgb(12, 12, 12);
+    height: auto;
+    width: 100%;
+    margin: 0 auto; 
+    
+
+}
+.footer {
+    height: 143px;
+    width: 100%;
+    background: black;
+    margin-top: -29px;
+}
+.footer-text {
+    text-align: center;
+    color: white;
+    margin-top: 218px;
+}
+.footer-bottom {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
